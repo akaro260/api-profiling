@@ -392,8 +392,9 @@ Contoh berikut menggunakan JSON. Sesuaikan field dengan validasi dan resource co
 
 ```json
 {
-  "judul": "Informasi Kegiatan OSIS",
-  "isian": "Informasi kegiatan sekolah dan organisasi."
+ "gambar": "example.jpg"   
+ "judul": "Informasi Kegiatan OSIS",
+ "isian": "Informasi kegiatan sekolah dan organisasi."
 }
 ```
 
